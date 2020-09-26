@@ -24,3 +24,10 @@ Answer : [Anton Yelchin "Chekov" (Star Trek) Incident](https://github.com/bagas0
 Answer : [Report]()
 
 Interview Record : [Youtube](https://youtu.be/TEmtc9JOuuA)
+
+
+### Contributors ###
+
+* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
+* **Adi Rahman** - *Ilmu Komputer Universitas Negeri Jakarta* - [adirhmn](https://github.com/adirhmn)
+* **Moh. Falend Wandamen** - *Ilmu Komputer Universitas Negeri Jakarta* - [Limfosit](https://github.com/Limfosit)
