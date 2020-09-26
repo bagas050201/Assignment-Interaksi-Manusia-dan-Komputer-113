@@ -15,7 +15,7 @@
 - [x] Provide suggestion to improve the design
 - [x] Create a UX mockup to improve the design
 
-Answer : [Anton Yelchin "Chekov" (Star Trek) Incident](http://www.google.fr/ "Named link title")
+Answer : [Anton Yelchin "Chekov" (Star Trek) Incident](https://github.com/bagas050201/IMK-Assignment-1/tree/master/Task%201%20Report)
 
 ## Task 2 ##
 
