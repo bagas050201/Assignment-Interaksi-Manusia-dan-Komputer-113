@@ -1,7 +1,9 @@
 # Interview With Bayu Dwi Putra (UI/UX Designer) #
 
 - - - -
+### Interview Record : [Youtube](https://youtu.be/TEmtc9JOuuA)
 
+- - - - 
 Interview yang telah kami lakukan bersama Kak Bayu Dwi Putra dilakukan pada hari Rabu, 23 November 2020 melalui platform Google Meets. Kak Bayu sendiri merupakan Seorang UI/UX Designer yang telah memulai karirnya pada tahun 2013 hingga sekarang. 
 
 Salah satu Project App besar yang telah ia buat adalah :
@@ -51,8 +53,10 @@ Berikut merupakan hasil dari interview kami dengan kak Bayu Dwi Putra :
         dengan Web Designer, karena Web Designer tidak akan memahami flow dari sebuah platform yang akan dibuat. Nah seorang 
         UX-Designer  harus tahu nih ketika kita membuat wireframe seperti ini tuh dari setiap page atau setiap button atau sering 
         kita sebut CTE, bagaimana nanti set mapping-nya. UX Design harus lebih ke flow user nya, apakah mempermudah user-nya atau 
-        tidak. Setiap button harus diset akan mengarah kemana. Nah sekarang lagi PSBB nih, aktifitas online sangat banyak. Project 
-        gue lebih banyak ke platform sosial media kayak Tele Zoom atau IG Live.
+        tidak. Setiap button harus diset akan mengarah kemana. 
+        
+        Nah sekarang lagi PSBB nih, aktifitas online sangat banyak. Project gue lebih banyak ke platform sosial media kayak Tele 
+        Zoom atau IG Live.
         
 5. Filosifi apa yang Bang Bayu Pakai selama mengerjakan project UX-Design?
 
@@ -86,3 +90,4 @@ Berikut merupakan hasil dari interview kami dengan kak Bayu Dwi Putra :
         Kalian lulusan Ilmu Komputer kan nanti? 3 bulan kalian sudah bisa mulai mendesain, asal mau membaca buku Steve Krug itu. Kenapa? 
         Karena untuk Fresh Graduate-nya UX-Designer dengan Front End itu berbeda. Di perusahaan gue aja lagi nyari. Bukannya Front End 
         jelek, cuman UX-Design sekarang lebih menggiuarkan sih menurut gue.
+
