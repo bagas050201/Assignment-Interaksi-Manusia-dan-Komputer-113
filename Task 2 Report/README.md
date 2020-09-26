@@ -3,7 +3,6 @@
 - - - -
 ### Interview Record : [Youtube](https://youtu.be/TEmtc9JOuuA)
 
-- - - - 
 Interview yang telah kami lakukan bersama Kak Bayu Dwi Putra dilakukan pada hari Rabu, 23 November 2020 melalui platform Google Meets. Kak Bayu sendiri merupakan Seorang UI/UX Designer yang telah memulai karirnya pada tahun 2013 hingga sekarang. 
 
 Salah satu Project App besar yang telah ia buat adalah :
@@ -91,3 +90,4 @@ Berikut merupakan hasil dari interview kami dengan kak Bayu Dwi Putra :
         Karena untuk Fresh Graduate-nya UX-Designer dengan Front End itu berbeda. Di perusahaan gue aja lagi nyari. Bukannya Front End 
         jelek, cuman UX-Design sekarang lebih menggiuarkan sih menurut gue.
 
+- - - - 
