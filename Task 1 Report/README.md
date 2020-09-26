@@ -39,3 +39,21 @@ Menurut penjelasan berita tersebut dan penjelasan mengenai shifter pada mobil te
 
 Jika memang mobil masa depan ingin menggunakan design berjenis seperti ini, maka kami menyarankan untuk tidak menghapus sisi UX dari kebiasaan shifter / persneling mobil itu sendiri. Design persneling gigi / shifter dapat ditambahkan visual indikator sebagai pengganti cat pola dibagian atas shifter. Kemudian shifter mobil masih menggunakan pendekatan shifter mobil konvensional yang mana tetap berada pada posisi tersebut setelah diarahkan oleh pengemudi mobil. 
 
+## Create a UX mockup to improve the design ##
+
+<p align="center">
+  <img src="https://github.com/bagas050201/IMK-Assignment-1/blob/master/Task%201%20Report/new%20UX%20Design%20Grand%20Cherokee%20Shifter.png" />
+</p>
+
+Jadi menurut kami, shifter dengan model seperti ini nantinya akan digunakan pada mobil-mobil yang menempatkan stir mobil pada posisi kiri sesuai dengan daerah mobil ini dipasarkan. Jadi pengemudi masih dapat merasakan feel seperti shifter pada mobil-mobil pada umumnya, namun ada penambahan fitur dimana pengemudi dapat melihat dari visual shifter bahwa mobil sedang berada pada posisi apa. Sehingga pengemudi dapat memiliki 2 opsi visual yaitu :
+
+  1. Visual posisi pada bagian Kaki Shifter mobil.
+  2. Visual posisi pada bagian gagang shifter mobil melalui visual indikator yang ditampilkan pada shifter tersebut.
+  
+  
+  
+### DAFTAR PUSTAKA ###
+
+* Psmag.2016. *Looks can kill : the deadly result of bad design*. Diakses pada 20 September 2020 melalui https://psmag.com/news/looks-can-kill-the-deadly-results-of-bad-design
+* Core77.2016. *When Bad UI Design Kills: Is Poor Shift Lever Design to Blame for Death of Star Trek Actor?*. Diakses pada 20 September 2020 melalui https://www.core77.com/posts/54026/When-Bad-UI-Design-Kills-Is-Poor-Shift-Lever-Design-to-Blame-for-Death-of-Star-Trek-Actor
+* Bbc.2016. *Anton Yelchin Meninggal*. Diakses pada 21 September 2020 melalui https://www.bbc.com/indonesia/majalah/2016/06/160620_majalah_anton_yelchin_meninggal
