@@ -27,7 +27,7 @@ Berikut merupakan hasil dari interview kami dengan kak Bayu Dwi Putra :
 
 1. Kenalan Dulu Yuk Bang :
 
-         Kenalin nama gue Bayu Dwi Putra, sekarang umur 29 tahun. Lulusan dari Universitas Tarumanegara jurusan Hukum tahun 2012. Gue adalah seorang UI/UX Designer dari sebuah perusahaan bernama Era Jaya. Sudah lebih dari 3 tahun bekerja disini.
+      Kenalin nama gue Bayu Dwi Putra, sekarang umur 29 tahun. Lulusan dari Universitas Tarumanegara jurusan Hukum tahun 2012. Gue adalah seorang UI/UX Designer dari sebuah perusahaan bernama Era Jaya. Sudah lebih dari 3 tahun bekerja disini.
 
 2. Sudah berapa lama Bang Bayu bekecimpung di UX-Design ini secara khusus?
 
