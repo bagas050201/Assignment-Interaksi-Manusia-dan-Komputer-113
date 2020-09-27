@@ -21,7 +21,7 @@ Answer : [Anton Yelchin "Chekov" (Star Trek) Incident](https://github.com/bagas0
 
 - [x] interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
 
-Answer : [Report]()
+Answer : [Report](https://github.com/bagas050201/IMK-Assignment-1/tree/master/Task%202%20Report)
 
 Interview Record : [Youtube](https://youtu.be/TEmtc9JOuuA)
 
