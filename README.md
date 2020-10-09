@@ -1,4 +1,4 @@
-# Assignment 1 HCI 
+# Assignment 2 HCI 
 - - - -
 
 ## TEAM I ##
@@ -9,21 +9,23 @@
 
 ## Task 1 ##
 
-- [x] Find similar incident in the past record
-- [x] Explain why the incident happened
-- [x] Explain the design error
-- [x] Provide suggestion to improve the design
-- [x] Create a UX mockup to improve the design
+- [ ] Pick the app with fitting criteria
+- [ ] conduct an evaluation of the app in term of appearance and interaction control
+- [ ] Give reasoning why it isn’t pleasant or cumbersome to use
+- [ ] Pointed out the flaw in interaction control
+- [ ] Identify Key business use cases
+- [ ] The output of this task is key use cases, key activity diagrams, and narration
 
-Answer : [Anton Yelchin "Chekov" (Star Trek) Incident](https://github.com/bagas050201/IMK-Assignment-1/tree/master/Task%201%20Report)
+Answer : [Coming soon](https://github.com/bagas050201/IMK-Assignment-2)
 
 ## Task 2 ##
 
-- [x] interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
+- [ ] 1st Day: Discussion of why the app does having problem (recorded)
+- [ ] 2nd Day: Two persons from your team are to works on competing design equipped with material design principle
+- [ ] 3rd Day: Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting (recorded)
+- [ ] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback (recorded). 
 
-Answer : [Report](https://github.com/bagas050201/IMK-Assignment-1/tree/master/Task%202%20Report)
-
-Interview Record : [Youtube](https://youtu.be/TEmtc9JOuuA)
+Answer : [Report](https://github.com/bagas050201/IMK-Assignment-2)
 
 
 ### Contributors ###
