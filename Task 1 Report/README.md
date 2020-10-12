@@ -63,6 +63,9 @@ diidentifikasikan sebagai fitur bisnis utama yang ditawarkan dari aplikasi ini.
 ## Activity Diagrams ##
 ![ Activity Diagram Poster Augmented Reality Tatasurya](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/blob/hw2/Task%201%20Report/Activity%20Diagram%20AR%20TataSurya.png)
 
+
+
+- - - - 
 ### Contributors ###
 
 * **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
