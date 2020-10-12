@@ -15,4 +15,10 @@ Pada Setiap menu, memiliki fungsionalitasnya masing-masing, berikut penjelasanny
 
 1. AR Camera
 
->> Pada menu ini, akan ditampilkan sebuah layar di handphone kita yang mana layar ini menampilkan gambar berdasarkan apa yang sedang kamera handphone kita ambil. 
+        Pada menu ini, akan ditampilkan sebuah layar di handphone kita yang mana layar ini menampilkan gambar berdasarkan apa 
+        yang sedang kamera handphone kita ambil. Nantinya jika kta mengarahkan Camera Handphone kita ke arah Poster Augmented 
+        Reality Tatasurya akan menampilkan gambaran proyeksi objek 3 Dimensi dari poster tersebut, yang nantinya objek ini 
+        akan berisi keterangangambar dan keterangan informasi dari objek yang sedang kita amati menggunakan kamera handphone.
+2. HINT
+
+        Menu HINT sendiri akan menampikan tata cara 
