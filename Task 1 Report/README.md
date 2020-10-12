@@ -32,3 +32,7 @@ Pada Setiap menu, memiliki fungsionalitasnya masing-masing, berikut penjelasanny
 4. EXIT
 
         Menu ini digunakan sebagai satu-satunya jalan untuk keluar dari aplikasi Poster Augmented Reality Tatasurya
+        
+        
+## Give reasoning why it isn’t pleasant or cumbersome to use ##
+
