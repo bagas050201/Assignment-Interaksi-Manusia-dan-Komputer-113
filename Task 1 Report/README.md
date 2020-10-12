@@ -36,3 +36,14 @@ Pada Setiap menu, memiliki fungsionalitasnya masing-masing, berikut penjelasanny
         
 ## Give reasoning why it isn’t pleasant or cumbersome to use ##
 
+## Pointed out the flaw in interaction control ##
+
+## Identify Key business use cases ##
+
+## Activity Diagrams ##
+
+### Contributors ###
+
+* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
+* **Adi Rahman** - *Ilmu Komputer Universitas Negeri Jakarta* - [adirhmn](https://github.com/adirhmn)
+* **Moh. Falend Wandamen** - *Ilmu Komputer Universitas Negeri Jakarta* - [Limfosit](https://github.com/Limfosit)
