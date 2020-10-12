@@ -11,3 +11,8 @@ Poster Augmented Reality Tatasurya adalah aplikasi yang dikhususkan bergerak dib
 * POSTER
 * EXIT
 
+Pada Setiap menu, memiliki fungsionalitasnya masing-masing, berikut penjelasannya :
+
+1. AR Camera
+
+>> Pada menu ini, akan ditampilkan sebuah layar di handphone kita yang mana layar ini menampilkan gambar berdasarkan apa yang sedang kamera handphone kita ambil. 
