@@ -19,6 +19,16 @@ Pada Setiap menu, memiliki fungsionalitasnya masing-masing, berikut penjelasanny
         yang sedang kamera handphone kita ambil. Nantinya jika kta mengarahkan Camera Handphone kita ke arah Poster Augmented 
         Reality Tatasurya akan menampilkan gambaran proyeksi objek 3 Dimensi dari poster tersebut, yang nantinya objek ini 
         akan berisi keterangangambar dan keterangan informasi dari objek yang sedang kita amati menggunakan kamera handphone.
+        
 2. HINT
 
-        Menu HINT sendiri akan menampikan tata cara 
+        Menu HINT sendiri akan menampilkan tampilan panduan penggunaan aplikasi tersebut, tidak hanya tulisan, melainkan beserta
+        tampilan gambar yang mana akan memberikan tampilan visual yang lebih baik dibanding tulisan saja.
+
+3. POSTER
+
+        Menu POSTER akan menjelaskan tentang source yang akan digunakan pada menu AR Camera.
+
+4. EXIT
+
+        Menu ini digunakan sebagai satu-satunya jalan untuk keluar dari aplikasi Poster Augmented Reality Tatasurya
