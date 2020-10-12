@@ -46,6 +46,8 @@ terlihat tidak menonjol dibandingkan menu-menu yang tersedia lainnya.
 4. Peletakan tombol "Back" pada menu AR Camera diletakan tepat di tengah-tengah layar handphone, hal ini cukup mengganggu gambaran visual yang didapatkan.
 
 ## Pointed out the flaw in interaction control ##
+Pada bagian interaksi kontrol penggunaan aplikasi ini, terdapat beberapa hal yang kami rasakan cukup mengganggu dalam penggunaan aplikasi ini. Hal-hal yang kami rasakan sebagai bentuk kelemahan dalam kontrol interaksi yaitu :
+
  1. Tidak ada menu pengaturan, dan menu about us.
  2. Tidak ada suatu tombol yang dapat mematikan lagu opening saat membuka halaman utama aplikasi.
  3. Terdapat effect saat tombol menu nya ditekan, namun effect ini akan tetap ada walau tombol sudah tidak lagi ditekan.
@@ -55,6 +57,7 @@ terlihat tidak menonjol dibandingkan menu-menu yang tersedia lainnya.
 ## Identify Key business use cases ##
 
 ## Activity Diagrams ##
+![ Activity Diagram Poster Augmented Reality Tatasurya](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/blob/hw2/Task%201%20Report/Activity%20Diagram%20AR%20TataSurya.png)
 
 ### Contributors ###
 
