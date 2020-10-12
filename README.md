@@ -16,7 +16,7 @@
 - [ ] Identify Key business use cases
 - [ ] The output of this task is key use cases, key activity diagrams, and narration
 
-Answer : [Coming soon](https://github.com/bagas050201/IMK-Assignment-2)
+Answer : [Report](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%201%20Report)
 
 ## Task 2 ##
 
