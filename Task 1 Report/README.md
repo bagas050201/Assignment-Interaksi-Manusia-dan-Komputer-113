@@ -54,7 +54,11 @@ Pada bagian interaksi kontrol penggunaan aplikasi ini, terdapat beberapa hal yan
  4. Pada Menu POSTER ,saat hendak mendapatkan resource posternya, malah disajikan link langksung, Padahal jika menggunakan tombol akan lebih baik lagi.
  5. Pada seluruh tombol "back" yang tersedia pada aplikasi ini, sama sekali tidak diberikan effect clicked. sehingga user tidak dapat mengetahui apakah tombol "back" berhasil ditekan atau tidak.
  6. Saat hendak keluar dari aplikasi, hanya bisa dilakukan dengan cara menekan tombol menu EXIT. Sedangkan jika menggunakan tombol "back" bawaan pada handphone tidak diperbolehkan oleh aplikasi untuk digunakan.
+ 
 ## Identify Key business use cases ##
+
+Kunci bisnis yang ditawarkan didalam aplikasi ini ialah penerapan teknologi Augmented Reality yang diterapkan kedalam media poster, yang nantinya saat kamera handphone diarahkan menuju poster source dari aplikasi ini, akan memunculkan gambar 3 Dimensi sesuai dengan informasi yang dipaparkan dari poster tersebut. Kita sebagai user nantinya dapat menjelajahi berbagai informasi tentang tata surya kita dengan lebih baik serta lebih menyenangkan. Jika dilihat dari menu yang disajikan oleh aplikasi ini, pada menu AR Camera 
+diidentifikasikan sebagai fitur bisnis utama yang ditawarkan dari aplikasi ini.
 
 ## Activity Diagrams ##
 ![ Activity Diagram Poster Augmented Reality Tatasurya](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/blob/hw2/Task%201%20Report/Activity%20Diagram%20AR%20TataSurya.png)
