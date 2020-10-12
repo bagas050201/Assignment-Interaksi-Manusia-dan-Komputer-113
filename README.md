@@ -9,12 +9,12 @@
 
 ## Task 1 ##
 
-- [ ] Pick the app with fitting criteria
-- [ ] conduct an evaluation of the app in term of appearance and interaction control
-- [ ] Give reasoning why it isn’t pleasant or cumbersome to use
-- [ ] Pointed out the flaw in interaction control
-- [ ] Identify Key business use cases
-- [ ] The output of this task is key use cases, key activity diagrams, and narration
+- [x] Pick the app with fitting criteria
+- [x] conduct an evaluation of the app in term of appearance and interaction control
+- [x] Give reasoning why it isn’t pleasant or cumbersome to use
+- [x] Pointed out the flaw in interaction control
+- [x] Identify Key business use cases
+- [x] The output of this task is key use cases, key activity diagrams, and narration
 
 Answer : [Report](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%201%20Report)
 
