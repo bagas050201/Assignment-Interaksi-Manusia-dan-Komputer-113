@@ -36,8 +36,22 @@ Pada Setiap menu, memiliki fungsionalitasnya masing-masing, berikut penjelasanny
         
 ## Give reasoning why it isn’t pleasant or cumbersome to use ##
 
-## Pointed out the flaw in interaction control ##
+Jika dilihat dengan seksama, aplikasi ini memiliki tampilan yang cukup nyaman untuk dipandang karena pemilihan warna yang pas, Mungkin dikarenakan aplikasi ini ditujukan
+kepada anak-anak / pelajar yang sedang belajar tentang tata surya. Kemudian beberapa kekurangan yang telah kami temukan selama menggunakan aplikasi ini yaitu :
 
+1. Pada saat memasuki halaman utama aplikasi, selalu disuguhkan dengan lagu opening, hal ini cukup mengganggu jika didengarkan secara terus menerus. 
+2. Penempatan setiap bagian menu yang tersedia pada aplikasi ini dibuat secara sejajar dan memiliki ukuran yang sama, hal ini menyebabkan fitur utama dari aplikasi ini
+terlihat tidak menonjol dibandingkan menu-menu yang tersedia lainnya.
+3. Tampilan grafis pada gambar yang disajikan di menu HINT dibawah ekspetasi. Gambarnya terlihat memiliki resolusi yang rendah dan terlihat sedikit blur.
+4. Peletakan tombol "Back" pada menu AR Camera diletakan tepat di tengah-tengah layar handphone, hal ini cukup mengganggu gambaran visual yang didapatkan.
+
+## Pointed out the flaw in interaction control ##
+ 1. Tidak ada menu pengaturan, dan menu about us.
+ 2. Tidak ada suatu tombol yang dapat mematikan lagu opening saat membuka halaman utama aplikasi.
+ 3. Terdapat effect saat tombol menu nya ditekan, namun effect ini akan tetap ada walau tombol sudah tidak lagi ditekan.
+ 4. Pada Menu POSTER ,saat hendak mendapatkan resource posternya, malah disajikan link langksung, Padahal jika menggunakan tombol akan lebih baik lagi.
+ 5. Pada seluruh tombol "back" yang tersedia pada aplikasi ini, sama sekali tidak diberikan effect clicked. sehingga user tidak dapat mengetahui apakah tombol "back" berhasil ditekan atau tidak.
+ 6. Saat hendak keluar dari aplikasi, hanya bisa dilakukan dengan cara menekan tombol menu EXIT. Sedangkan jika menggunakan tombol "back" bawaan pada handphone tidak diperbolehkan oleh aplikasi untuk digunakan.
 ## Identify Key business use cases ##
 
 ## Activity Diagrams ##
