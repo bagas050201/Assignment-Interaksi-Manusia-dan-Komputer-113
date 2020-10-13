@@ -4,8 +4,14 @@
 
 Pada kesempatan yang berbahagia kali ini, kami mendapat kesempatan untuk memberikan hasil analisis kami terhadap aplikasi "Poster Augmented Reality Tatasurya" yang aplikasinya sendiri bisa dilihat pada tautan link berikut : https://play.google.com/store/apps/details?id=com.inreality.postertatasurya
 
-
+# 1st Day #
 * Record Discussion of why the app does having problem : [Youtube](https://youtu.be/Btrkvpm9Pmw)
+
+# 2nd Day #
+
+# 3rd Day #
+
+# 4th Day #
 
 ### Contributors ###
 
