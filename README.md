@@ -2,10 +2,10 @@
 - - - -
 ![Poster Augmented Reality Tatasurya](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/blob/hw2/Task%201%20Report/Poster%20Augmented%20Reality%20Tatatsurya.PNG)
 
-Nama Aplikasi    : Poster Augmented Reality TataSurya
-Developer        : inReality
-Email Developer  : dansu.sumardani@gmail.com
-Playstore Link   : https://play.google.com/store/apps/details?id=com.inreality.postertatasurya
+* Nama Aplikasi    : Poster Augmented Reality TataSurya
+* Developer        : inReality
+* Email Developer  : dansu.sumardani@gmail.com
+* Playstore Link   : https://play.google.com/store/apps/details?id=com.inreality.postertatasurya
 
 - - - - 
 
