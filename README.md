@@ -1,6 +1,7 @@
 # Assignment 1 HCI 
 - - - -
 
+Link Tree Assignment 1 : [hw1](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw1)
 ## TEAM I ##
 
   1. Muhammad Bagas Pradana (1313618015)
@@ -26,6 +27,7 @@ Answer : [Report](https://github.com/bagas050201/IMK-Assignment-1/tree/master/Ta
 Interview Record : [Youtube](https://youtu.be/TEmtc9JOuuA)
 
 # Assignment 2 HCI 
+Link Tree Assignment 2 : [hw2](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2)
 - - - -
 ![Poster Augmented Reality Tatasurya](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/blob/hw2/Task%201%20Report/Poster%20Augmented%20Reality%20Tatatsurya.PNG)
 
