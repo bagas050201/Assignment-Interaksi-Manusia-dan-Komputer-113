@@ -78,10 +78,10 @@ Hasil Dari Voting Design yaitu terpilihnya Design Alternatif 1 sebagai design ya
 
 ![Hint Menu Step 4](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/blob/hw2/Task%202%20Report/Moh.%20Falend%20-%20Design%20Mockup%20Alternatif%201/fourth%20hint.jpg)
 
-Pada Design yang terpilih diatas, memiliki beberapa peningkatan kualitas tampilan serta kualitas penggunaan yang lebih baik. Pada tampilan Home Screen (Gambar kedua) dibuat lebih simple dan lebih menonjolkan fitur utama yang ditawarkan dari aplikasi ini. Pada design original dari applikasi ini, pada tampilan home diletakan 4 buah tombol menu yang mana mengakibatkan tombol menu AR Camera yang merupakan keys dari aplikasi ini menjadi tidak terlalu menonjol. Kemudian pada design mockup Hint menu (Gambar keempat - ketujuh) Dibuat agar terlihat lebih modern mengikuti trend design terbaru belakangan ini. Design ini membuat setiap tata cara penggunaan aplikasi dijadikan setiap screen hanya menampilkan 1 steps sedangan jika ingin berlanjut ke steps berikutnya, users tinggal menggeser layar handphone milik mereka. Tampilan pada hint menu juga ditingkatkan dari segi grafisnya agar semakin memudahkan users saat menggunakannya. 
+Pada Design yang terpilih diatas, memiliki beberapa peningkatan kualitas tampilan serta kualitas penggunaan yang lebih baik. Pada tampilan Home Screen (Gambar kedua) dibuat lebih simple dan lebih menonjolkan fitur utama yang ditawarkan dari aplikasi ini. Pada design original dari aplikasi ini, pada tampilan home diletakan 4 buah tombol menu yang mana mengakibatkan tombol menu AR Camera yang merupakan keys dari aplikasi ini menjadi tidak terlalu menonjol. Kemudian pada design mockup Hint menu (Gambar keempat - ketujuh) Dibuat agar terlihat lebih modern mengikuti trend design terbaru belakangan ini. Design ini membuat setiap tata cara penggunaan aplikasi dijadikan setiap screen hanya menampilkan 1 steps sedangan jika ingin berlanjut ke steps berikutnya, users tinggal menggeser layar handphone milik mereka. Tampilan pada hint menu juga ditingkatkan dari segi grafisnya agar semakin memudahkan users saat menggunakannya. 
 
 ## 4th Day ##
-* Wawancara dilakukan melalui platform Zoom Meeting, dimana kak Dadan Sumardani sedang berada di Negara Taiwan.
+* Dialog dilakukan melalui platform Zoom Meeting, dimana kak Dadan Sumardani saat itu sedang berada di Negara Taiwan.
 * Dialogue With Developer Poster Augmented Reality Tatasurya (Dadan Sumardani) : [Youtube](https://www.youtube.com/watch?v=IXT3Zyh7mJg)
 ### Contributors ###
 
