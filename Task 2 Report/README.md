@@ -8,6 +8,9 @@ Pada kesempatan yang berbahagia kali ini, kami mendapat kesempatan untuk memberi
 * Record Discussion of why the app does having problem : [Youtube](https://youtu.be/Btrkvpm9Pmw)
 
 ## 2nd Day ##
+* Design Mockup Original dari Aplikasi Poster Augmented Reality Tatasurya : [Lihat Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%202%20Report/Poster%20Augmented%20Reality%20Tatasurya%20Mockup)
+* Design Mockup Alternatif 1 dikerjakan oleh Moh. Falend Wandamen menggunakan Adobe XD : [Lihat disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%202%20Report/Moh.%20Falend%20-%20Design%20Mockup%20Alternatif%201)
+* Design Mockup Alternatif 2 dikerjakan oleh Adi Rahman menggunakan Adobe XD : [Lihat Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%202%20Report/Adi%20Rahman%20-%20Design%20Mockup%20Alternatif%202)
 
 ## 3rd Day ##
 *  Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting : [Youtube](https://www.youtube.com/watch?v=adti0fo-Sp0)
