@@ -10,7 +10,7 @@ Pada kesempatan yang berbahagia kali ini, kami mendapat kesempatan untuk memberi
 ## 2nd Day ##
 
 ## 3rd Day ##
-
+*  Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting : [Youtube](https://www.youtube.com/watch?v=adti0fo-Sp0)
 ## 4th Day ##
 
 ### Contributors ###
