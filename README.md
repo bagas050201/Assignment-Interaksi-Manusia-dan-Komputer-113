@@ -50,9 +50,9 @@ Answer : [Report](https://github.com/bagas050201/Assignment-Interaksi-Manusia-da
 ## Task 2 ##
 
 - [x] 1st Day: Discussion of why the app does having problem (recorded)
-- [ ] 2nd Day: Two persons from your team are to works on competing design equipped with material design principle
-- [ ] 3rd Day: Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting (recorded)
-- [ ] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback (recorded). 
+- [x] 2nd Day: Two persons from your team are to works on competing design equipped with material design principle
+- [x] 3rd Day: Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting (recorded)
+- [x] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback (recorded). 
 
 Answer : [Report](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%202%20Report)
 
