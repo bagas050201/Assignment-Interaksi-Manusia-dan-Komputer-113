@@ -48,7 +48,7 @@ Developer dari Aplikasi Poster Augmented Reality Tatasurya adalah Dadan Sumardan
 - - - - 
 
 ## 1st Day ##
-* Record Discussion of why the app does having problem : [Youtube](https://youtu.be/Btrkvpm9Pmw)
+* Discussion of why the app does having problem : [Youtube](https://youtu.be/Btrkvpm9Pmw)
 
 ## 2nd Day ##
 * Design Mockup Original dari Aplikasi Poster Augmented Reality Tatasurya : [Lihat Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%202%20Report/Poster%20Augmented%20Reality%20Tatasurya%20Mockup)
