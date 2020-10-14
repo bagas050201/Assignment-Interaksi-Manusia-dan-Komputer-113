@@ -4,10 +4,17 @@
 
 Pada kesempatan yang berbahagia kali ini, kami mendapat kesempatan untuk memberikan hasil analisis kami terhadap aplikasi "Poster Augmented Reality Tatasurya" yang aplikasinya sendiri bisa dilihat pada tautan link berikut : https://play.google.com/store/apps/details?id=com.inreality.postertatasurya
 
-Developer dari Aplikasi Poster Augmented Reality Tatasurya adalah Dadan Sumardani. 
+Developer dari Aplikasi Poster Augmented Reality Tatasurya adalah Dadan Sumardani.
 
-Dadan obtained a Bachelor of Education degree in Physics Education at the State University of Jakarta, Indonesia with an undergraduated thesis entitled “Integrating Augmented Reality Into Worksheets: Unveil Learning to Support Higher-Order Thinking Skills” and has published it in AIP Conferences Proceedings 2019, volume 2169, number 1, page 020012 indexed by Scopus, and has published five other scientific articles on augmented reality in the Quartile 3 Scopus.
-Overall, during his undergraduate study, Dadan has published 10 articles indexed by Scopus, 8 articles in accredited journals, 5 articles in national and international proceedings, and 5 Intellectual Property Rights (IPR) regarding Augmented Reality Applications registered at the Indonesian Intellectual Property Directorate. Dadan also graduated with honors (Honor Graduated/Cum Lauded) from Jakarta State University in 2019.
+    Dadan obtained a Bachelor of Education degree in Physics Education at the State University of Jakarta, Indonesia with an 
+    undergraduated thesis entitled “Integrating Augmented Reality Into Worksheets: Unveil Learning to Support Higher-Order 
+    Thinking Skills” and has published it in AIP Conferences Proceedings 2019, volume 2169, number 1, page 020012 indexed by 
+    Scopus, and has published five other scientific articles on augmented reality in the Quartile 3 Scopus.
+
+    Overall, during his undergraduate study, Dadan has published 10 articles indexed by Scopus, 8 articles in accredited 
+    journals, 5 articles in national and international proceedings, and 5 Intellectual Property Rights (IPR) regarding 
+    Augmented Reality Applications registered at the Indonesian Intellectual Property Directorate. Dadan also graduated 
+    with honors (Honor Graduated/Cum Lauded) from Jakarta State University in 2019.
 
 ## Achievements ##
 ![Dadan Sumardani](https://dadansumardani.files.wordpress.com/2020/05/20190424_123400-e1589148164299.jpg?w=1024)
