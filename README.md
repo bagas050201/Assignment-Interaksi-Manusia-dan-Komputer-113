@@ -2,6 +2,8 @@
 - - - -
 ![Poster Augmented Reality Tatasurya](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/blob/hw2/Task%201%20Report/Poster%20Augmented%20Reality%20Tatatsurya.PNG)
 
+Pada kesempatan yang berbahagia kali ini, kami mendapat kesempatan untuk memberikan hasil analisis kami terhadap aplikasi "Poster Augmented Reality Tatasurya" yang aplikasinya sendiri bisa dilihat pada tautan link berikut : https://play.google.com/store/apps/details?id=com.inreality.postertatasurya
+
 Developer dari Aplikasi Poster Augmented Reality Tatasurya adalah Dadan Sumardani.
 
     Dadan obtained a Bachelor of Education degree in Physics Education at the State University of Jakarta, Indonesia with an 
