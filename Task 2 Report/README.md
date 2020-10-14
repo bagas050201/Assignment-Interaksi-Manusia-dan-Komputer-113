@@ -13,9 +13,13 @@ Pada kesempatan yang berbahagia kali ini, kami mendapat kesempatan untuk memberi
 * Design Mockup Alternatif 2 dikerjakan oleh Adi Rahman menggunakan Adobe XD : [Lihat Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw2/Task%202%20Report/Adi%20Rahman%20-%20Design%20Mockup%20Alternatif%202)
 
 ## 3rd Day ##
-*  Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting : [Youtube](https://www.youtube.com/watch?v=adti0fo-Sp0)
-## 4th Day ##
+*  Voting Design : [Youtube](https://www.youtube.com/watch?v=adti0fo-Sp0)
 
+Voting Design mengikut sertakan reviewers :
+1. Mush'ab Utsmani Ibrahim - Ilmu Komputer Universitas Negeri Jakarta - 1313618023
+2. Yusriizal Piliyang - Ilmu Komputer Universitas Negeri Jakarta - 1313618022
+## 4th Day ##
+* Dialogue With Developer Poster Augmented Reality Tatasurya (Dadan Sumardani) : [Youtube](https://www.youtube.com/watch?v=IXT3Zyh7mJg)
 ### Contributors ###
 
 * **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
