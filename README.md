@@ -1,13 +1,14 @@
-# Assignment 1 HCI 
+# Tugas Interaksi Manusia dan Komputer 113 / Assignment 3
 - - - -
 
-Link Tree Assignment 1 : [hw1](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw1)
 ## TEAM I ##
 
   1. Muhammad Bagas Pradana (1313618015)
   2. Adi Rahman (1313618037)
   3. Moh. Falend Wandamen (1313618027)
 
+scope : organisasi
+user : seluruh anggota organisasi
 ## Task 1 ##
 
 - [x] Find similar incident in the past record
