@@ -23,3 +23,6 @@ Kami melakukan interview untuk mendapatkan data gathering dari organisasi KPM UN
 
 Kemudian, saat kami menanyakan terkait kendala KPM UNJ saat ini, zuhri menuturkan bahwa dari tahun ke tahun KPM UNJ memiliki masalah terkait pendataan presensi acara yang telah dibuat oleh KPM UNJ. KPM UNJ memiliki program kerja yang cukup banyak, dimana setiap anggota organisasi KPM diharapkan selalu mengikuti rangkaian agenda program kerja yang telah KPM buat. Zuhri mengutarakan opininya terkait pendataan presensi, berdasarkan pengalaman yang telah dirasakan Zuhri selaku kepala biro kerestari (Kesekretariatan) bahwa pada masa-masa berjalannya kegiatan organisasi, terkait presensi ini masih belum terasa problemnya. Namun saat sudah memasuki masa akhir kepengurusan organisasi yang mana melakukan penyusunan Laporan Pertanggung Jawaban akhir kepengurusan, masalah presensi ini tidak bisa dihindarkan. hasil akhirnya yaitu data pada Laporan Pertanggung Jawaban akhir ini tidak selalu akurat. 
 
+Berdasarkan interview yang telah kami lakukan, zuhri selaku perwakilan KPM UNJ memiliki pesan untuk web app SIPKU agar fitur-fitur ini dapat ditambahkan / digunakan, sehingga dapat menyelesaikan masalah terkait presensi ini, yaitu diantaranya :
+
+1. 
