@@ -26,8 +26,8 @@ Kemudian, saat kami menanyakan terkait kendala KPM UNJ saat ini, zuhri menuturka
 Berdasarkan interview yang telah kami lakukan, zuhri selaku perwakilan KPM UNJ memiliki pesan untuk web app SIPKU agar fitur-fitur ini dapat ditambahkan / digunakan, sehingga dapat menyelesaikan masalah terkait presensi ini, yaitu diantaranya :
 
 1. Admin dapat mendaftarkan anggotanya sehingga setiap anggota organisasi memiliki akun pribadinya masing-masing.
-2. Admin dapat memilih apakah user / anggota organisasi dapat diizinkan hadir atau tidak diizinkan hadir dalam mengikuti agenda acara
-3. Admin dapat melihat data hasil presensi setiap anggotanya, sehingga diakhir masa kepengurusan organisasi. Admin tinggal melihat history data dalam melakukan pendataan.
+2. Admin dapat memilih apakah user / anggota organisasi dapat diizinkan hadir atau tidak diizinkan hadir dalam mengikuti agenda acara.
+3. Admin dapat melihat data hasil presensi setiap anggotanya, sehingga diakhir masa kepengurusan organisasi, Admin tinggal melihat history data dalam melakukan pendataan.
 4. Karena setiap anggota KPM memiliki Unik ID nya masing-masing. Diharapkan Admin dapat membuat / mendaftarkan anggotanya berdasarkan Unik ID. Sehingga setiap anggota memiiki akun khusus / unik nya masing-masing. Kode unik ini bisa menggunakan Nomor Tanda Anggota.
 5. Pada halaman login, setiap User harus login menggunakan Kode Unik dan passwordnya masing-masing.
 6. Tidak perlu adanya halaman register. Agar tidak sembarangan orang bisa membuat akun diluar kendali admin.
