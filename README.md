@@ -50,3 +50,9 @@ Setelah menyimak penjelasan presentasi design yang telah kami lakukan barusan, Z
 1. Menambahkan logo Universitas Negeri Jakarta di halaman website SIPKU.
 2. Menambahkan keterangan waktu acara pada setiap keterangan agenda acara yang telah di buat.
 3. Menambahkan keterangan waktu presensi yang disediakan untuk melakukan presensi pada acara yang sedang diikuti.
+
+## Contributors ##
+
+* **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
+* **Adi Rahman** - *Ilmu Komputer Universitas Negeri Jakarta* - [adirhmn](https://github.com/adirhmn)
+* **Moh. Falend Wandamen** - *Ilmu Komputer Universitas Negeri Jakarta* - [Limfosit](https://github.com/Limfosit)
