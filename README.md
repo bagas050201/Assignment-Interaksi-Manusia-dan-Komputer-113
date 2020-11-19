@@ -12,7 +12,7 @@
 * Tipe User : Fixed 
 * Scope : organisasi 
 * User : seluruh anggota organisasi
-
+* Market pull : [SIPKU / Sistem Presensi KPM UNJ](https://github.com/bagas050201/SIPKU)
 ## 1st phase requirement gathering ##
 
 ### proofs : [wawancara bersama perwakilan KPM (Zulri Ramadhan)](https://www.youtube.com/watch?v=FTx2rQYrC_k) ###
