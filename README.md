@@ -37,7 +37,7 @@ Berdasarkan interview yang telah kami lakukan, zulri selaku perwakilan KPM UNJ m
 
 ## 2nd Phase Requirement Gathering ##
 ### proofs : [Conference bersama perwakilan KPM (Zulri Ramadhan)](https://youtu.be/SSmty-wAsoc) ###
-### Hasil Questionnaire dari perwakilan KPM UNJ : [klik disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3/Questionnaire)###
+### Hasil Questionnaire dari perwakilan KPM UNJ : [klik disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3/Questionnaire) ###
 ### Mini Report ###
 
 <p align="justify"> 
