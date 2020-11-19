@@ -15,17 +15,17 @@
 
 ## 1st phase requirement gathering ##
 
-### proofs : [wawancara bersama perwakilan KPM (Zuhri Ramadhan)](https://www.youtube.com/watch?v=FTx2rQYrC_k) ###
+### proofs : [wawancara bersama perwakilan KPM (Zulri Ramadhan)](https://www.youtube.com/watch?v=FTx2rQYrC_k) ###
 
 ### Mini Report ###
 <p align="justify"> 
-    Kami melakukan interview untuk mendapatkan data gathering dari organisasi KPM UNJ. KPM (Kelompok Peneliti Muda) adalah Unit Kegiatan Mahasiswa yang bergerak dalam bidang keilmiahan berbasis penalaran dan penelitian yang ada di Universitas Negeri Jakarta (UNJ). KPM UNJ memiliki berbagai kegiatan, seperti kegiatan nalar ilmiah (nalari), training of trainer (tot), pengabddian masyarakat, expo, program pendanaan penelitian, dan seminar hasil penelitian KPM UNJ. Zuhri Ramadhan selaku narasumber dari interview yang dilakukan, menuturkan bahwa KPM UNJ telah memiliki website, yang mana pada website KPM UNJ saat ini hanya digunakan sebatas pengenalan KPM UNJ. Kemudian kami menanyakan terkait siklus internal organisasinya, kemudian Zuhri menuturkan bahwa KPM UNJ masih  menggunakan pendekatan manual dalam menjalankan kegiatannya. Seperti pengerjaan administrasi, perancangan serta pelaksanaan program kerja.
+    Kami melakukan interview untuk mendapatkan data gathering dari organisasi KPM UNJ. KPM (Kelompok Peneliti Muda) adalah Unit Kegiatan Mahasiswa yang bergerak dalam bidang keilmiahan berbasis penalaran dan penelitian yang ada di Universitas Negeri Jakarta (UNJ). KPM UNJ memiliki berbagai kegiatan, seperti kegiatan nalar ilmiah (nalari), training of trainer (tot), pengabddian masyarakat, expo, program pendanaan penelitian, dan seminar hasil penelitian KPM UNJ. Zulri Ramadhan selaku narasumber dari interview yang dilakukan, menuturkan bahwa KPM UNJ telah memiliki website, yang mana pada website KPM UNJ saat ini hanya digunakan sebatas pengenalan KPM UNJ. Kemudian kami menanyakan terkait siklus internal organisasinya, kemudian Zulri menuturkan bahwa KPM UNJ masih  menggunakan pendekatan manual dalam menjalankan kegiatannya. Seperti pengerjaan administrasi, perancangan serta pelaksanaan program kerja.
 </p>
 <p align="justify"> 
-  Kemudian, saat kami menanyakan terkait kendala KPM UNJ saat ini, zuhri menuturkan bahwa dari tahun ke tahun KPM UNJ memiliki masalah terkait pendataan presensi acara yang telah dibuat oleh KPM UNJ. KPM UNJ memiliki program kerja yang cukup banyak, dimana setiap anggota organisasi KPM diharapkan selalu mengikuti rangkaian agenda program kerja yang telah KPM buat. Zuhri mengutarakan opininya terkait pendataan presensi, berdasarkan pengalaman yang telah dirasakan Zuhri selaku kepala biro kerestari (Kesekretariatan) bahwa pada masa-masa berjalannya kegiatan organisasi, terkait presensi ini masih belum terasa problemnya. Namun saat sudah memasuki masa akhir kepengurusan organisasi yang mana melakukan penyusunan Laporan Pertanggung Jawaban akhir kepengurusan, masalah presensi ini tidak bisa dihindarkan. hasil akhirnya yaitu data pada Laporan Pertanggung Jawaban akhir ini tidak selalu akurat. 
+  Kemudian, saat kami menanyakan terkait kendala KPM UNJ saat ini, zulri menuturkan bahwa dari tahun ke tahun KPM UNJ memiliki masalah terkait pendataan presensi acara yang telah dibuat oleh KPM UNJ. KPM UNJ memiliki program kerja yang cukup banyak, dimana setiap anggota organisasi KPM diharapkan selalu mengikuti rangkaian agenda program kerja yang telah KPM buat. Zulri mengutarakan opininya terkait pendataan presensi, berdasarkan pengalaman yang telah dirasakan Zulri selaku kepala biro kerestari (Kesekretariatan) bahwa pada masa-masa berjalannya kegiatan organisasi, terkait presensi ini masih belum terasa problemnya. Namun saat sudah memasuki masa akhir kepengurusan organisasi yang mana melakukan penyusunan Laporan Pertanggung Jawaban akhir kepengurusan, masalah presensi ini tidak bisa dihindarkan. hasil akhirnya yaitu data pada Laporan Pertanggung Jawaban akhir ini tidak selalu akurat. 
 </p>
 
-Berdasarkan interview yang telah kami lakukan, zuhri selaku perwakilan KPM UNJ memiliki pesan untuk web app SIPKU agar fitur-fitur ini dapat ditambahkan / digunakan, sehingga dapat menyelesaikan masalah terkait presensi ini, yaitu diantaranya :
+Berdasarkan interview yang telah kami lakukan, zulri selaku perwakilan KPM UNJ memiliki pesan untuk web app SIPKU agar fitur-fitur ini dapat ditambahkan / digunakan, sehingga dapat menyelesaikan masalah terkait presensi ini, yaitu diantaranya :
 
 1. Admin dapat mendaftarkan anggotanya sehingga setiap anggota organisasi memiliki akun pribadinya masing-masing.
 2. Admin dapat memilih apakah user / anggota organisasi dapat diizinkan hadir atau tidak diizinkan hadir dalam mengikuti agenda acara.
@@ -36,8 +36,8 @@ Berdasarkan interview yang telah kami lakukan, zuhri selaku perwakilan KPM UNJ m
 
 
 ## 2nd Phase Requirement Gathering ##
-### proofs : [Conference bersama perwakilan KPM (Zuhri Ramadhan)](https://youtu.be/SSmty-wAsoc) ###
-
+### proofs : [Conference bersama perwakilan KPM (Zulri Ramadhan)](https://youtu.be/SSmty-wAsoc) ###
+### fill survey : ###
 ### Mini Report ###
 
 <p align="justify"> 
@@ -45,7 +45,7 @@ Pada tahap ini, kami telah melakukan konferensi bersama perwakilan KPM UNJ untuk
 </p>
 
 <p align="justify"> 
-Setelah menyimak penjelasan presentasi design yang telah kami lakukan barusan, Zuhri selaku perwakilan KPM UNJ memberikan tanggapannya terkait design yang telah kami bangun ini. Zuhri berpendapat bahwa tampilan rancangan design website SIPKU sudah cukup bagus, dalam penggunaannya mudah untuk dipahami, designnya sendiri dikatakan bagus dan enak untuk dilihat. Kemudian Zuhri menjelaskan terkait kebutuhan selanjutnya yang perlu ditambahkan pada web app SIPKU ini, yaitu diantaranya : </p>
+Setelah menyimak penjelasan presentasi design yang telah kami lakukan barusan, Zulri selaku perwakilan KPM UNJ memberikan tanggapannya terkait design yang telah kami bangun ini. Zulri berpendapat bahwa tampilan rancangan design website SIPKU sudah cukup bagus, dalam penggunaannya mudah untuk dipahami, designnya sendiri dikatakan bagus dan enak untuk dilihat. Kemudian Zulri menjelaskan terkait kebutuhan selanjutnya yang perlu ditambahkan pada web app SIPKU ini, yaitu diantaranya : </p>
 
 1. Menambahkan logo Universitas Negeri Jakarta di halaman website SIPKU.
 2. Menambahkan keterangan waktu acara pada setiap keterangan agenda acara yang telah di buat.
