@@ -1,4 +1,4 @@
-# Assignment 3 HCI
+# Assignment 3 IMK
 - - - -
 
 ## TEAM I ##
